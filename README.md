@@ -4,7 +4,9 @@ I am a Junior Full-Stack Developer. I have some knowledge of HTML, CSS, JavaScri
 I am a purposeful team player, stress-resistant and sociable. That is why teamwork makes great sense to me. I appreciate co-working with professional developers who eagerly adopt experience. I am always ready to help in all working processes for successful project completion.
 
 📫Reach me out!
-![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=social&logo=linkedin&link=https%3A%2F%2Flinkedin.com%2Fin%2Fdenys-shchyptsov)
+
+![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenys-shchyptsov%2F)
+
 
 
 
