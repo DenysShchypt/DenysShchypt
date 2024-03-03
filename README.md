@@ -17,16 +17,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denysshchypt&" alt="denysshchypt" /></p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-Linkedin: linkedin.com/in/denys-shchyptsov, Email: , Telegram: @Denys_Shchyp
-
