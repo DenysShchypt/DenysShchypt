@@ -8,8 +8,8 @@ I am a purposeful team player, stress-resistant and sociable. That is why teamwo
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-Denys%20Shchyptsov?style=social&logo=Gmail&color=%23EA4335)](mailto:denysshchyptsovit@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenys-shchyptsov)](https://www.linkedin.com/in/denys-shchyptsov/)
-![Static Badge](https://img.shields.io/badge/Telegram-Denys%20Shchyptsov?style=social&logo=telegram&color=%2326A5E4&link=https%3A%2F%2Ft.me%2FDenys_Shchyp)
-(telegram:https://t.me/Denys_Shchyp)
+[![Static Badge](https://img.shields.io/badge/Telegram-Denys%20Shchyptsov?style=social&logo=telegram&color=%2326A5E4)](https://t.me/Denys_Shchyp)
+
 
 
 
