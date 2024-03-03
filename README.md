@@ -5,6 +5,8 @@ I am a purposeful team player, stress-resistant and sociable. That is why teamwo
 
 📫Reach me out!
 
+[![Static Badge](https://img.shields.io/badge/Gmail-Denys%20Shchyptsov?style=social&logo=Gmail&color=%23EA4335&link=denysshchyptsovit%40gmail.com)]
+(mailto:denysshchyptsovit@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenys-shchyptsov)](https://www.linkedin.com/in/denys-shchyptsov/)
 
 
@@ -14,5 +16,5 @@ I am a purposeful team player, stress-resistant and sociable. That is why teamwo
 
 
 
-Linkedin: linkedin.com/in/denys-shchyptsov, Email: denysshchyptsovit@gmail.com, Telegram: @Denys_Shchyp
+Linkedin: linkedin.com/in/denys-shchyptsov, Email: , Telegram: @Denys_Shchyp
 
