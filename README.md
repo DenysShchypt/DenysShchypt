@@ -5,7 +5,9 @@ I am a purposeful team player, stress-resistant and sociable. That is why teamwo
 
 📫Reach me out!
 
-![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenys-shchyptsov%2F)
+![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=social&logo=linkedin&color=%230A66C2&link=www.linkedin.com%2Fin%2Fdenys-shchyptsov)
+
+
 
 
 
